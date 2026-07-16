@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My New Hugo Project</title>
+		<link>/</link>
+		<description>Recent content on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 16 Jul 2026 22:29:27 +0800</lastBuildDate>
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Blog</title>
+				<link>/posts/blog/</link>
+				<pubDate>Thu, 16 Jul 2026 22:29:27 +0800</pubDate>
+				<guid>/posts/blog/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
