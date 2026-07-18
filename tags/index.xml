@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on My New Hugo Project</title>
-		<link>/tags/</link>
-		<description>Recent content in Tags on My New Hugo Project</description>
-		<generator>Hugo</generator>
-		<language>en-us</language>
-		
-		
-		
-		
-			<lastBuildDate>Wed, 15 Jul 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>个人成长</title>
-				<link>/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</link>
-				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>生活方式</title>
-				<link>/tags/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</link>
-				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>阅读方法</title>
-				<link>/tags/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/</link>
-				<pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>/tags/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95/</guid>
-				<description></description>
-			</item>
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on My New Hugo Project</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

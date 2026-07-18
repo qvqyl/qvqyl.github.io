@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>阅读·思考 on My New Hugo Project</title>
-    <link>/categories/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/</link>
-    <description>Recent content in 阅读·思考 on My New Hugo Project</description>
+    <title>阅读方法, 个人成长, 生活方式 on My New Hugo Project</title>
+    <link>/tags/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95-%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF-%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/</link>
+    <description>Recent content in 阅读方法, 个人成长, 生活方式 on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2026 19:07:53 +0800</lastBuildDate>
-    <atom:link href="/categories/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E9%98%85%E8%AF%BB%E6%96%B9%E6%B3%95-%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF-%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我们这代人，似乎把读书这件事神圣化了</title>
       <link>/posts/blog/</link>
